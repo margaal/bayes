@@ -21,11 +21,17 @@ For more [information](http://www.inf.ed.ac.uk/teaching/courses/inf2b/learnnotes
 The code is fully documented, check it to see how you can implement the following steps. 
 
 1. Load data
+
 2. Explore and visualize data
-![image 1](https://github.com/margaal/bayes/blob/master/resources/screenshots/dataset_head.jpg)
+<p align="center">
+  <img src="https://github.com/margaal/bayes/blob/master/resources/screenshots/dataset_head.jpg">
+</p>
+
 ![image 2](https://github.com/margaal/bayes/blob/master/resources/screenshots/length_repartition.jpg)
 0 : Ham
 1 : Spam
+
+
 3. Prepare data for Model
 4. Create Pipeline to build Bag of Words, normalize features and apply classification algorithm (In this case MultinomialNB)
 5. Model evaluation

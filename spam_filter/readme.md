@@ -41,6 +41,9 @@ The code is fully documented, check it to see how you can implement the followin
   <img src="https://github.com/margaal/bayes/blob/master/resources/screenshots/model_evaluation_1.jpg">
 </p>
 
+## Note about development environment
+I use JupyterLab (Anaconda).
+
 ## References
 - [Kaggle](https://www.kaggle.com/dilip990/spam-ham-detection-using-naive-bayes-classifier/notebook)
 - [Sickit Learn Pipeline](https://towardsdatascience.com/a-simple-example-of-pipeline-in-machine-learning-with-scikit-learn-e726ffbb6976)

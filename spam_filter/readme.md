@@ -27,15 +27,19 @@ The code is fully documented, check it to see how you can implement the followin
   <img src="https://github.com/margaal/bayes/blob/master/resources/screenshots/dataset_head.jpg">
 </p>
 
-![image 2](https://github.com/margaal/bayes/blob/master/resources/screenshots/length_repartition.jpg)
-0 : Ham
-1 : Spam
+<p align="center">
+  <img src="https://github.com/margaal/bayes/blob/master/resources/screenshots/length_repartition.jpg">
+</p>
+
+<p align="center"> <strong>0</strong> : Ham <strong>1</strong> : Spam </p>
 
 
 3. Prepare data for Model
 4. Create Pipeline to build Bag of Words, normalize features and apply classification algorithm (In this case MultinomialNB)
 5. Model evaluation
-![image 3](https://github.com/margaal/bayes/blob/master/resources/screenshots/model_evaluation_1.jpg)
+<p align="center">
+  <img src="https://github.com/margaal/bayes/blob/master/resources/screenshots/model_evaluation_1.jpg">
+</p>
 
 ## References
 - [Kaggle](https://www.kaggle.com/dilip990/spam-ham-detection-using-naive-bayes-classifier/notebook)

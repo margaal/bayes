@@ -22,7 +22,7 @@ The code is fully documented, check it to see how you can implement the followin
 
 1. Load data
 2. Explore and visualize data
-[image 1](../resources/screenshots/dataset_head.jpg)
+![image 1](https://github.com/margaal/bayes/blob/master/resources/screenshots/dataset_head.jpg)
 [image 2](../resources/screenshots/length_repartition.jpg)
 0 : Ham
 1 : Spam
